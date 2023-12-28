@@ -1,5 +1,5 @@
-Project Title: SMS Spam Detection
-
+**Project Title: SMS Spam Detection
+**
 Problem Statement:
 Mobile messaging is a widely used form of communication, with billions of users exchanging numerous messages. 
 However, this convenience comes with the challenge of spam messages, making communication insecure. The task 
